@@ -1,0 +1,16 @@
+main: net.v18.me.Main
+author: bob
+api-version: 1.16
+version: 6.66
+name: DroneShit
+
+
+commands:
+  drone:
+    usage:
+  wp:
+    usage:
+  traverse:
+    usage:
+  pos:
+    usage:

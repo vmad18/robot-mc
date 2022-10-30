@@ -1,6 +1,5 @@
-# Robot Minecraft
+# Robot Minecraft (WIP)
 
-Stil a WIP
 Robotics based algorithms and control interfaces implemented in Minecraft.
 
 

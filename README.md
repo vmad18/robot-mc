@@ -1,7 +1,6 @@
 # Robot Minecraft (WIP)
 
-Robotics based algorithms and control interfaces implemented in Minecraft.
-
+Robotics based algorithms and control interfaces implemented in Minecraft (server-side plugin).
 
 # Finished:
 - [x] Car kinematic model
